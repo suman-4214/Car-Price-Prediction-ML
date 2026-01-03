@@ -1,2 +1,2 @@
-# House-Price-Prediction-ML
-House Price Prediction using Python, ML
+# Car-Price-Prediction-ML
+Car Price Prediction using Python, ML
